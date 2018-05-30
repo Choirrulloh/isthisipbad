@@ -93,7 +93,7 @@ def content_test(url, badip):
 BLS = ["all.rbl.webiron.net", "all.s5h.net", "all.spamrats.com",
        "b.barracudacentral.org", "bl.blocklist.de", "bl.drmx.org", "bl.fmb.la",
        "bl.mipspace.com", "bl.mailspike.net", "bl.nszones.com",
-       "bl.spamcannibal.org", "bl.spamcop.net", "bl.spameatingmonkey.net",
+       "bl.spamcop.net", "bl.spameatingmonkey.net",
        "bl.suomispam.net", "blacklist.woody.ch", "block.ascams.com",
        "cdl.anti-spam.org.cn", "combined.rbl.msrbl.net", "db.wpbl.info",
        "dnsbl-1.uceprotect.net", "dnsbl-2.uceprotect.net", "dnsbl-3.uceprotect.net",
